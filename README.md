@@ -1,1 +1,1 @@
-JAVA - Proyecto de sudoku.
+JAVA - Proyecto de sudoku a través de grafos.
